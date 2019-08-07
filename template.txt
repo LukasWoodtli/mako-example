@@ -1,0 +1,7 @@
+All persons:
+
+% for person in persons:
+    Name: ${person.name}
+    Age:  ${person.age}
+
+% endfor
